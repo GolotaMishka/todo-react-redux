@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d5ca6d903d3bfbcf0a69dfc3ee17c537",
+    "revision": "0de52e40cf06aceb4783fb51d063fe87",
     "url": "/todo-react-redux/index.html"
   },
   {
-    "revision": "f10dadb532a9c5524477",
-    "url": "/todo-react-redux/static/css/main.2cce8147.chunk.css"
+    "revision": "d84cca1e60a727e7d967",
+    "url": "/todo-react-redux/static/css/main.0d55a9c8.chunk.css"
   },
   {
-    "revision": "2e0129063922e3bb197a",
-    "url": "/todo-react-redux/static/js/2.b41502e9.chunk.js"
+    "revision": "b38532f35b38ec43b93c",
+    "url": "/todo-react-redux/static/js/2.03e37fae.chunk.js"
   },
   {
-    "revision": "f10dadb532a9c5524477",
-    "url": "/todo-react-redux/static/js/main.a484aea6.chunk.js"
+    "revision": "d84cca1e60a727e7d967",
+    "url": "/todo-react-redux/static/js/main.5daf30fa.chunk.js"
   },
   {
     "revision": "c2979c65fca7cd9446fe",
